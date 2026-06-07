@@ -50,8 +50,6 @@ ICE Prioritisation Framework
 
 ## Sentiment Analysis Results
 
-<img src="images/meesho_p9.png" width="700" alt="Sentiment Analysis"/>
-
 | Sentiment | Share | Key Signals |
 |-----------|-------|-------------|
 | Positive  | 69.3% | Fast delivery, low prices, wide catalogue |
@@ -63,8 +61,6 @@ The 12.6% negative sentiment is disproportionately impactful — negative review
 ---
 
 ## Topic Modelling — Pain Points
-
-<img src="images/meesho_p10.png" width="700" alt="Technical Pipeline"/>
 
 LDA with 6 topics surfaced the following recurring complaint clusters:
 
@@ -81,11 +77,7 @@ LDA with 6 topics surfaced the following recurring complaint clusters:
 
 ## Strategic Recommendations
 
-<img src="images/meesho_p11.png" width="700" alt="Strategic Action Plan"/>
-
 ### ICE-Prioritised Intervention Roadmap
-
-<img src="images/meesho_p12.png" width="700" alt="ICE Prioritisation"/>
 
 | Priority | Intervention | Impact | Confidence | Ease | ICE Score | Expected Outcome |
 |----------|-------------|--------|------------|------|-----------|-----------------|
